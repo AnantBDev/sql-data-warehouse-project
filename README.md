@@ -5,8 +5,8 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ***
 
-** 🚀 Project Reuirements
+## 🚀 Project Reuirements
 
-*** Building the Data Warehouse (Data Engineering)
+### Building the Data Warehouse (Data Engineering)
 
-**** Objective
+#### Objective
